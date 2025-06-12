@@ -106,10 +106,10 @@ description: Unofficial servers related to Discord
 
 @gg/owner
 
-## Discord Bot Owners (With verification)
+## Discord Ressources (With verification)
 
-> **Description:** Private Community for Verified Bot Devs.  <br/>
-**Link:** [Discord Bot Owners](https://discord.gg/tZNRf7WfBU)  <br/>
-**Credit:** owned by @212844004889329664
+> **Description:** Private Community for Ressources about Discord.  <br/>
+**Link:** [Discord Ressources](https://discord.gg/3UdvC9zK8m)  <br/>
+**Credit:** owned by @353927301425266708
 
-@gg/tZNRf7WfBU
+@gg/3UdvC9zK8m
